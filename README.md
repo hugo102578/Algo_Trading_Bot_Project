@@ -1,7 +1,7 @@
 # Algo_Trading_Bot_Project
 ## Please open Algo Trading Bot Introduction.pdf to go through the program
 
-1  Trading_Bot.py - Main Trading Bot program, listening to real time data and trade
+1.  Trading_Bot.py - Main Trading Bot program, listening to real time data and trade
 2. GetDataFromBinance_Future.py - Connect to Binance API for Future Data Extraction
 3. GetDataFromBinance_Spot.py - Connect to Binance API for Spot Data Extraction
 4. Backtrader.py - Back test strategy purpose
