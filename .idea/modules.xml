@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Binance_Python_Project.iml" filepath="$PROJECT_DIR$/.idea/Binance_Python_Project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../binance_repo/.idea/binance_repo.iml" filepath="$PROJECT_DIR$/../binance_repo/.idea/binance_repo.iml" />
+    </modules>
+  </component>
+</project>
